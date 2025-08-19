@@ -12,7 +12,7 @@
 
 :books:  I’m currently studying computer science.
 
-:outbox_tray: 2026 Goals: finish my course at Unifal.
+:outbox_tray: 2027 Goals: finish my course at Unifal.
 
  
 
