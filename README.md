@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Corrêa! 👋
+# Olá, sou Felipe Corrêa! 👋
 
 <br>
 
