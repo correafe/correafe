@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,mysql,postgres,sqlite,git,github,docker,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,django,selenium,wordpress,git,github, cpp" />
   </a>
 </p>
 
