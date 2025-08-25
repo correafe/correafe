@@ -1,31 +1,40 @@
-# Welcome!
+# Olá, eu sou o Felipe Corrêa! 👋
 
- 
+<br>
 
-## I'm Felipe Corrêa!
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia e soluções criativas. Atualmente, estou cursando **Ciência da Computação** na Universidade Federal de Alfenas (UNIFAL-MG), com previsão de formatura para 2027.
 
- 
+Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades para criar projetos inovadores e eficientes.
 
-:computer: I'm a Full stack Developer!
+---
 
-:house_with_garden: I’m from Brazil.
+### 📫 Conecte-se comigo
 
-:books:  I’m currently studying computer science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/correa-felipe/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/correafe)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correagfe@gmail.com)
 
-:outbox_tray: 2027 Goals: finish my course at Unifal.
+---
 
- 
+### 🛠️ Tecnologias e Ferramentas
 
-## About me
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/correafe)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,mysql,postgres,sqlite,git,github,docker,vscode&perline=7" />
+  </a>
+</p>
 
-## Languages and Tools:
-[![correafe GitHub stats](https://github-readme-stats.vercel.app/api?username=correafe)](https://github.com/correafe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correafe&layout=compact)](https://github.com/correafe/github-readme-stats)
+---
 
+### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correafe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correafe&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+<p align="center">
+  <img src="https://raw.githubusercontent.com/correafe/correafe/main/hello_world.gif" alt="Banner animado de 'Hello World'">
+</p>
