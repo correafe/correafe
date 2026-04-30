@@ -16,7 +16,7 @@ Acompanhe os repositórios do projeto abaixo:
 
 <p align="center">
     <a href="https://github.com/correafe/tutor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=NOME_DO_SEGUNDO_REPO&theme=tokyonight" alt="Repositório com Gamificação" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=tutor&theme=tokyonight" alt="Repositório com Gamificação" />
   </a>
   <a href="https://github.com/correafe/sem-tutor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=sem-tutor&theme=tokyonight" alt="Repositório sem Gamificação" />
@@ -35,7 +35,7 @@ Acompanhe os repositórios do projeto abaixo:
 
 ### 🎓 Formação e Certificações
 
-*   **Ciência da Computação** - UNIFAL-MG (2022-2028)[cite: 1]
+*   **Ciência da Computação** - UNIFAL-MG
 *   **Formação Cientista de Dados (2026):** Foco avançado em Python, Bancos de Dados NoSQL, AWS e Spark com Databricks.
 *   **Pacote Office 365 e Power BI:** Criação de dashboards, relatórios administrativos e análise visual de dados.
 *   **Idiomas:** Inglês Fluente - Certificação EF SET Nível C2 Proficient.
