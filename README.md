@@ -2,9 +2,9 @@
 
 <br>
 
-Sou estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG), com previsão de formatura para 2028[cite: 1]. Possuo um perfil analítico focado na estruturação, modelagem e manipulação de bases de dados para embasar decisões estratégicas[cite: 1].
+Sou estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG). Possuo um perfil analítico focado na estruturação, modelagem e manipulação de bases de dados para embasar decisões estratégicas.
 
-Busco constantemente aplicar meus conhecimentos em SQL, Python e ambientes de Big Data para monitorar KPIs, extrair insights e apoiar a mitigação de riscos operacionais[cite: 1]. 
+Busco constantemente aplicar meus conhecimentos em SQL, Python e ambientes de Big Data para monitorar KPIs, extrair insights e apoiar a mitigação de riscos operacionais. 
 
 ---
 
@@ -15,7 +15,7 @@ Atualmente, estou desenvolvendo meu Trabalho de Conclusão de Curso (TCC) focado
 Acompanhe os repositórios do projeto abaixo:
 
 <p align="center">
-    <a href="https://github.com/correafe/tutor.git">
+    <a href="https://github.com/correafe/tutor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=NOME_DO_SEGUNDO_REPO&theme=tokyonight" alt="Repositório com Gamificação" />
   </a>
   <a href="https://github.com/correafe/sem-tutor">
@@ -28,17 +28,17 @@ Acompanhe os repositórios do projeto abaixo:
 
 ### 💼 Experiência e Projetos em Dados
 
-*   **Estágio em Dados (GDGI/NTI UNIFAL):** Atuação na sustentação de sistemas com foco na otimização de consultas em SQL (PostgreSQL), elaboração de dicionários de dados, documentação técnica e estruturação de bases relacionais[cite: 1].
-*   **JourneyEasyMap (JEM):** Adaptação estrutural e validação de pipelines de processos, garantindo a escalabilidade, eficiência e a qualidade dos dados no mapeamento de requisitos[cite: 1].
+*   **Estágio em Dados (GDGI/NTI UNIFAL):** Atuação na sustentação de sistemas com foco na otimização de consultas em SQL (PostgreSQL), elaboração de dicionários de dados, documentação técnica e estruturação de bases relacionais.
+*   **JourneyEasyMap (JEM):** Adaptação estrutural e validação de pipelines de processos, garantindo a escalabilidade, eficiência e a qualidade dos dados no mapeamento de requisitos.
 
 ---
 
 ### 🎓 Formação e Certificações
 
 *   **Ciência da Computação** - UNIFAL-MG (2022-2028)[cite: 1]
-*   **Formação Cientista de Dados (2026):** Foco avançado em Python, Bancos de Dados NoSQL, AWS e Spark com Databricks[cite: 1, 2].
-*   **Pacote Office 365 e Power BI:** Criação de dashboards, relatórios administrativos e análise visual de dados[cite: 5].
-*   **Idiomas:** Inglês Fluente - Certificação EF SET Nível C2 Proficient[cite: 1, 4].
+*   **Formação Cientista de Dados (2026):** Foco avançado em Python, Bancos de Dados NoSQL, AWS e Spark com Databricks.
+*   **Pacote Office 365 e Power BI:** Criação de dashboards, relatórios administrativos e análise visual de dados.
+*   **Idiomas:** Inglês Fluente - Certificação EF SET Nível C2 Proficient.
 
 ---
 
