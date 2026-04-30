@@ -8,6 +8,24 @@ Busco constantemente aplicar meus conhecimentos em SQL, Python e ambientes de Bi
 
 ---
 
+### 🎯 TCC: Gamificação & Análise Estatística
+
+Atualmente, estou desenvolvendo meu Trabalho de Conclusão de Curso (TCC) focado em **Gamificação**. O sistema está em fase de implementação e, futuramente, conduzirei um experimento prático para a coleta de métricas de uso. A etapa final do projeto envolverá uma **análise estatística aprofundada** dos dados gerados para extrair insights e validar os resultados do estudo.
+
+Acompanhe os repositórios do projeto abaixo:
+
+<p align="center">
+    <a href="https://github.com/correafe/tutor.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=NOME_DO_SEGUNDO_REPO&theme=tokyonight" alt="Repositório com Gamificação" />
+  </a>
+  <a href="https://github.com/correafe/sem-tutor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=correafe&repo=sem-tutor&theme=tokyonight" alt="Repositório sem Gamificação" />
+  </a>
+
+</p>
+
+---
+
 ### 💼 Experiência e Projetos em Dados
 
 *   **Estágio em Dados (GDGI/NTI UNIFAL):** Atuação na sustentação de sistemas com foco na otimização de consultas em SQL (PostgreSQL), elaboração de dicionários de dados, documentação técnica e estruturação de bases relacionais[cite: 1].
